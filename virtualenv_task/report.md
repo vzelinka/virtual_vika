@@ -40,8 +40,8 @@ deactivate
 
 _Скріншоти виконання роботи з терміналу, файлів та GitHub:_
 
-![](https://raw.githubusercontent.com/Kaena0/virtual/main/virtualenv_task/screenshots/main-py.png)  
-![](https://raw.githubusercontent.com/Kaena0/virtual/main/virtualenv_task/screenshots/requirements.png)
+![](https://github.com/vzelinka/virtual_vika/blob/main/virtualenv_task/image/main.png?raw=true)  
+![](https://github.com/vzelinka/virtual_vika/blob/main/virtualenv_task/image/requirements.png?raw=true)
 
 ## 🧾 Висновок
 
